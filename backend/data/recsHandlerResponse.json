@@ -1,0 +1,183 @@
+{
+  "result": "success",
+  "sorted": [
+    {
+      "album": {
+        "name": "Get Weird (Deluxe)",
+        "release_date": "2015-11-06"
+      },
+      "artists": [
+        {
+          "name": "Little Mix"
+        },
+        {
+          "name": "Jason Derulo"
+        }
+      ],
+      "duration_ms": "249813",
+      "id": "4JIo8RztBbELr2gWJ5OGK6",
+      "name": "Secret Love Song (feat. Jason Derulo)",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "release_date": "2018-08-31"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan"
+        },
+        {
+          "name": "Ariana Grande"
+        }
+      ],
+      "duration_ms": "231846",
+      "id": "17JYzDCW1UTndfURuTydF2",
+      "name": "Dance To This (feat. Ariana Grande)",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "release_date": "2016-05-27"
+      },
+      "artists": [
+        {
+          "name": "Flume"
+        },
+        {
+          "name": "kai"
+        }
+      ],
+      "duration_ms": "233337",
+      "id": "12REd1n8PeiHHWOh066tpr",
+      "name": "Never Be Like You",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "Better Not (feat. Wafia)",
+        "release_date": "2018-04-13"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child"
+        },
+        {
+          "name": "Wafia"
+        }
+      ],
+      "duration_ms": "222865",
+      "id": "447yWcDPg1ddgcHBLGpJC0",
+      "name": "Better Not (feat. Wafia)",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "My Krazy Life (Deluxe)",
+        "release_date": "2014-01-01"
+      },
+      "artists": [
+        {
+          "name": "YG"
+        },
+        {
+          "name": "Drake"
+        }
+      ],
+      "duration_ms": "233506",
+      "id": "1uDjaezEbalGyGnuH80zDK",
+      "name": "Who Do You Love?",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "Mariners Apartment Complex",
+        "release_date": "2018-09-12"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey"
+        }
+      ],
+      "duration_ms": "246420",
+      "id": "4UAW2gObi5o6sJla0qZpPn",
+      "name": "Mariners Apartment Complex",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "release_date": "2016-01-28"
+      },
+      "artists": [
+        {
+          "name": "Rihanna"
+        }
+      ],
+      "duration_ms": "224000",
+      "id": "2aksifNn5ph8igDOkPBA02",
+      "name": "Love On The Brain",
+      "popularity": 0
+    },
+    {
+      "album": {
+        "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+        "release_date": "2016-12-09"
+      },
+      "artists": [
+        {
+          "name": "ZAYN"
+        },
+        {
+          "name": "Taylor Swift"
+        }
+      ],
+      "duration_ms": "245200",
+      "id": "6yIdwnpDHufLWgQcveTPMk",
+      "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "popularity": 1
+    },
+    {
+      "album": {
+        "name": "21",
+        "release_date": "2011-01-19"
+      },
+      "artists": [
+        {
+          "name": "Adele"
+        }
+      ],
+      "duration_ms": "228293",
+      "id": "1CkvWZme3pRgbzaxZnTl5X",
+      "name": "Rolling in the Deep",
+      "popularity": 1
+    },
+    {
+      "album": {
+        "name": "Tied Up... Orkant/Balance Pon It...",
+        "release_date": "2018-09-26"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer"
+        },
+        {
+          "name": "RAYE"
+        },
+        {
+          "name": "Mr Eazi"
+        },
+        {
+          "name": "Jake Gosling"
+        }
+      ],
+      "duration_ms": "187333",
+      "id": "58jIY7pmbOqlhuI3eRIes5",
+      "name": "Tied Up (feat. Mr Eazi, RAYE and Jake Gosling)",
+      "popularity": 13,
+      "preview_url": "https://p.scdn.co/mp3-preview/a9a4c399fa38b0f25d1fe344822574b8b882f171?cid=ce58270f079346658ebe132ae27ae27b"
+    }
+  ]
+}

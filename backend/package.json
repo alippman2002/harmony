@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "geofire-common": "^6.0.0"
+  }
+}

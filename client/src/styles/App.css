@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
+  font-size: medium;
+}
+
+.web-container {
+  height: 100%;
+  width: 100%;
+}

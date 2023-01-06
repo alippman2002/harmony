@@ -1,0 +1,69 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zxvC7CRGvggq9EWXOpwAo",
+      "id" : "4zxvC7CRGvggq9EWXOpwAo",
+      "name" : "Kiesza",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zxvC7CRGvggq9EWXOpwAo"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/44Wg9gZPHK8MebSuBpq63k"
+    },
+    "href" : "https://api.spotify.com/v1/albums/44Wg9gZPHK8MebSuBpq63k",
+    "id" : "44Wg9gZPHK8MebSuBpq63k",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2734aa8e95eeb09aa120b353703",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e024aa8e95eeb09aa120b353703",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048514aa8e95eeb09aa120b353703",
+      "width" : 64
+    } ],
+    "name" : "Sound Of A Woman",
+    "release_date" : "2014-10-21",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:44Wg9gZPHK8MebSuBpq63k"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zxvC7CRGvggq9EWXOpwAo",
+    "id" : "4zxvC7CRGvggq9EWXOpwAo",
+    "name" : "Kiesza",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zxvC7CRGvggq9EWXOpwAo"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71400121"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0c6xIDDpzE81m2q797ordA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0c6xIDDpzE81m2q797ordA",
+  "id" : "0c6xIDDpzE81m2q797ordA",
+  "is_local" : false,
+  "name" : "Hideaway",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/778918228506822e4c1251f90120ebf401f65603?cid=ce58270f079346658ebe132ae27ae27b",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0c6xIDDpzE81m2q797ordA"
+}

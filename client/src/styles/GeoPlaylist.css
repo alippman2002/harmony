@@ -1,0 +1,119 @@
+.playlist-popup {
+    position: absolute;
+    width: 400px;
+    height: 640px;
+    padding:30px;
+    top: 3%;
+    left: 20%;
+    background: linear-gradient(180deg, #71C7F2 0%, #9E6BC3 100%);
+    border-radius: 53px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.playlist-header {
+    flex-direction: column;
+}
+
+.close-button {
+    position:absolute; 
+    top:25px;; 
+    border:none;
+    width: 25px;
+    height: 25px;   
+    background: #FFFFFF;
+    border-radius: 9px;
+}
+
+.playlist-icon-wrapper {
+    display:block;
+    width:auto;
+    height:auto;
+    border-radius: 20px;
+}
+
+.playlist-icon {
+    display: grid;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 30px;
+    grid-template-columns: 50px 50px;
+    grid-template-rows: auto auto;
+}
+
+.song-img {
+    width: 50px;
+    height: 50px;
+}
+.playlist-title-wrapper {
+    position: absolute;
+}
+
+.playlist-title {
+    padding-top: 18px;
+    padding-left: 120px;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    margin:0;
+
+    color: #FFFFFF;
+}
+
+.playlist-content {
+    flex-direction: column;
+    text-align:left;
+    padding-top: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+
+    color: #FFFFFF;
+}
+
+.songs-list {
+    text-overflow: ellipsis;
+    text-align:left;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.add-playlist-button {
+    right: 30px;
+    position: absolute;
+    border: none;
+    width: 130px;
+    height: 60px;
+    background: #71C7F2;
+    border-radius: 39px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.preview-button-playlist, .add-button-playlist {
+    margin: 5px;
+    font-size: 13px;
+    font-weight:700;
+    color: white;
+    position: relative;
+    width: 80px;
+    height: 25px;
+    padding:2px;
+    border-color: #6DCCF5;
+    background-color: #71C7F2;
+    border-radius: 39px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.playlist-popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+}

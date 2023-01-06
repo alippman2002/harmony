@@ -1,0 +1,3 @@
+#leave out service key
+src/main/java/server/ServiceAccountKey.json
+ServiceAccountKey.json

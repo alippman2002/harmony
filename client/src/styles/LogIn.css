@@ -1,0 +1,57 @@
+.web-container {
+    /* background-image: url(/client/images/mapboxbackground.jpg); */
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.welcome-popup {
+    position:fixed;
+    top:50%;
+    left:50%;
+
+    margin-top:-137px;
+    margin-left:-235px;
+    width: 470px;
+    height: 274px;
+    background: linear-gradient(180deg, #6DCCF5 0%, #A65AB9 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 39px;
+}
+
+.welcome-text {
+    color: white;
+    padding-top: 25px;
+    font-style: medium;
+    font-weight: 400;
+    font-size: 53px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.harmony-text {
+    color: white;
+    padding-bottom: 15px;
+    font-style: medium;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 75px;
+    text-align: center;
+}
+
+.spotify-login-button {
+    width: 370px;
+    height: 60px;
+    background: #71C7F2;
+    border-radius: 39px;
+    border-color: #6DCCF5;
+
+    color: white;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 27px;
+    text-align: center;
+}

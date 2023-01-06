@@ -1,0 +1,12 @@
+.geomap-popup-container {
+    position: absolute;
+    width: 100vh;
+    height: 100vh;
+}
+
+.map-popup-container {
+    position: relative;
+    width: 650px;
+    height: 280px; 
+    border-radius: 25px;
+}

@@ -1,0 +1,12 @@
+.history-info {
+    visibility: hidden;
+    position:relative;
+    top: -30px;
+    left: 20px;
+    width: 344px;
+    height: 200px;
+    background: linear-gradient(180deg, #B4DCEF 0%, rgba(180, 220, 239, 0) 100%);
+    border-radius: 25px;    
+    font-weight: 500;
+    font-size: 15px;
+}
